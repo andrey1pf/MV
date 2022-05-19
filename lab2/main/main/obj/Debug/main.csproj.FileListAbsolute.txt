@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\bin\Debug\main.exe
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\bin\Debug\main.pdb
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\obj\Debug\main.exe
+C:\Users\Andrey\Desktop\Work space\MVLab2\main\main\obj\Debug\main.pdb
